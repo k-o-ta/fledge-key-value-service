@@ -58,10 +58,10 @@ function install_misc() {
     gnupg="2.2.19-*" \
     locales="2.31-*" \
     lsb-release="11.1.0*" \
-    openjdk-11-jdk="11.0.17*" \
+    openjdk-11-jdk="11.0.18*" \
     python3.9-venv="3.9.5-*" \
     rename="1.10-*" \
-    software-properties-common="0.99.9.10" \
+    software-properties-common="0.99.9.11" \
     unzip="6.0-*" \
     wget="1.20.3-*" \
     xz-utils="5.2.4-*" \
