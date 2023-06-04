@@ -49,7 +49,7 @@ function apt_update() {
 function install_misc() {
   DEBIAN_FRONTEND=noninteractive apt-get --quiet install -y --no-install-recommends \
     apt-transport-https="2.0.*" \
-    ca-certificates="20211016ubuntu0.20.04.1" \
+    ca-certificates="20230311ubuntu0.20.04.1" \
     chrpath="0.16-*" \
     libcurl4="7.68.*" \
     curl="7.68.*" \
